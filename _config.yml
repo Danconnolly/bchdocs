@@ -2,4 +2,5 @@ theme: jekyll-theme-slate
 title: [Bitcoin Cash Documents]
 description: [A collection of documents on Bitcoin Cash and crypto-currencies]
 baseurl: bchdocs/
+url: "danconnolly.github.io"
 
