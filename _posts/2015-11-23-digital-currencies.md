@@ -1,8 +1,10 @@
 ---
+title: BIS - Digital Currencies
+category: general
 ---
-# Digital Currencies
+# BIS - Digital Currencies
 
-updated 
+Produced by the [Bank of International Settlements](https://www.bis.org/) on 23 January 2015.
 
-[Link](https://www.bis.org/cpmi/publ/d137.htm)
+[Digital Currencies](https://www.bis.org/cpmi/publ/d137.htm)
 
