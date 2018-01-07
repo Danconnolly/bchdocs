@@ -4,7 +4,7 @@ title: Bitcoin Cash Documents
 ---
 # {{ page.title }}
 
-{% assign posts = site.posts | sort: 'date' %}
+{% assign posts = site.posts | sort: 'date' | reverse %}
 {% for post in posts %}
 
 - {{post.date | date: "%Y-%m-%d"}} [{{ post.title }}]({{ post.link }}) {{post.author}}
